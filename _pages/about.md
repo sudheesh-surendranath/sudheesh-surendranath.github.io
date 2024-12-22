@@ -15,7 +15,7 @@ I am a fourth year Mathematics Ph.D student at the <a href="https://www.math.uta
 
 <script type="text/javascript">
 
-var imagesArray = ["purity.png", "unsolved_math_problems.png", "coffee_cup_holes.png", "applied_math.png", "complex_conjugate.png", "existence_proof.png",  "konigsberg.png", "taylor_series.png", "dangerous_fields.png", "fairy_tales.png", "investing.png", "math_paper.png", "mathematically_annoying.png",  "matrix_transform.png", "newton_and_leibniz", "prediction.png", "proofs.png", "pumpkin_carving.png", "su_doku.png", "travelling_salesman_problem.png",  "well_ordering_principle.png"];
+var imagesArray = ["purity.png", "unsolved_math_problems.png", "coffee_cup_holes.png", "applied_math.png", "complex_conjugate.png", "existence_proof.png",  "konigsberg.png", "taylor_series.png", "dangerous_fields.png", "fairy_tales.png", "investing.png", "math_paper.png", "mathematically_annoying.png",  "matrix_transform.png", "newton_and_leibniz.png", "prediction.png", "proofs.png", "pumpkin_carving.png", "su_doku.png", "travelling_salesman_problem.png",  "well_ordering_principle.png"];
 
 function displayImage(){
 
