@@ -16,7 +16,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
+   <!-- {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %} -->
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
@@ -41,7 +41,9 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>Github</a></li>
       {% endif %}
-     
+      {% if author.googlescholar %}
+        <li class="author__desktop"><a href="https://scholar.google.com/citations?user=BokewVIAAAAJ&hl=en"><i class="fa-brands fa-google-scholar"></i>{{ author.googlscholar | default: " Google Scholar"}}</a></li>
+      {% endif %}
       
     </ul>
   </div>
