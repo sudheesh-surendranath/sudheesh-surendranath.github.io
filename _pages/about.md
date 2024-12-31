@@ -53,7 +53,7 @@ function displayImage(){
  
     } else if (imagesArray[num]=="sudoku.png") {
        document.getElementById("xkcd").innerHTML +=
-         '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=400px/>'; 
+         '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=350px/>'; 
     } else {
        document.getElementById("xkcd").innerHTML +=
       '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=900px/>';
