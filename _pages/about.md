@@ -44,9 +44,16 @@ var imagesArray = [
 function displayImage(){
 
     var num = Math.floor(Math.random() * (imagesArray.length));
-    if (imagesArray[num]=="konigsberg.png" || imagesArray[num]=="matrix_transform.png" || imagesArray[num]=="sudoku.png" || imagesArray[num]=="taylorseries.png"){
+    if (imagesArray[num]=="konigsberg.png" || imagesArray[num]=="matrix_transform.png"){
        document.getElementById("xkcd").innerHTML +=
          '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" height="70%"/>';
+    } else if (imagesArray[num]=="taylorseries.png") {
+       document.getElementById("xkcd").innerHTML +=
+         '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" height=400px/>';
+ 
+    } else if (imagesArray[num]=="sudoku.png") {
+       document.getElementById("xkcd").innerHTML +=
+         '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" height=400px/>'; 
     } else {
        document.getElementById("xkcd").innerHTML +=
       '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=900px/>';
