@@ -49,7 +49,7 @@ function displayImage(){
          '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=700px/>';
     } else if (imagesArray[num]=="taylorseries.png") {
        document.getElementById("xkcd").innerHTML +=
-         '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=300px/>';
+         '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=200px/>';
  
     } else if (imagesArray[num]=="sudoku.png") {
        document.getElementById("xkcd").innerHTML +=
