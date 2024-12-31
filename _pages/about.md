@@ -49,11 +49,11 @@ function displayImage(){
          '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=700px/>';
     } else if (imagesArray[num]=="taylorseries.png") {
        document.getElementById("xkcd").innerHTML +=
-         '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=400px/>';
+         '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=300px/>';
  
     } else if (imagesArray[num]=="sudoku.png") {
        document.getElementById("xkcd").innerHTML +=
-         '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=350px/>'; 
+         '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=300px/>'; 
     } else {
        document.getElementById("xkcd").innerHTML +=
       '<img src="/xkcd/' + imagesArray[num] + '" alt="drawing" width=900px/>';
