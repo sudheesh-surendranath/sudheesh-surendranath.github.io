@@ -7,7 +7,7 @@ analytics: true
 ---
 
 ## Current:
-Spring 2025: MATH 3070-002,003 and 004: R Lab I \
+Spring 2025: MATH 3070-002,003 and 004: R Lab I 
 
 ## Past Courses:
 
