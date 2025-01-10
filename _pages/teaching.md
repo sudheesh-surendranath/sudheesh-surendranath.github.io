@@ -3,6 +3,7 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+analytics: true
 ---
 
 Spring 2025: MATH 3070-002,003 and 004: R Lab I \

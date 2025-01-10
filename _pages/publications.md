@@ -3,6 +3,7 @@ layout: archive
 title: "Preprints and Publications"
 permalink: /publications/
 author_profile: true
+analytics: true
 ---
 
 {% include base_path %}
