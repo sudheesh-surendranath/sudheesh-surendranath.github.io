@@ -1,0 +1,4 @@
+1. Changed sitemap.html
+2. Changed author-profile.html
+
+
