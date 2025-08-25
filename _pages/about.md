@@ -9,7 +9,7 @@ analytics: true
 ---
 
 
-I am a fourth year Mathematics Ph.D. student at the <a href="https://www.math.utah.edu/">University of Utah</a> advised by <a href="https://www.math.utah.edu/~davar/">Davar Khoshnevisan</a>. My research focuses on probability and stochastic analysis, including stochastic partial differential equations.
+I am a fifth year Mathematics Ph.D. student at the <a href="https://www.math.utah.edu/">University of Utah</a> advised by <a href="https://www.math.utah.edu/~davar/">Davar Khoshnevisan</a>. My research focuses on probability and stochastic analysis, including stochastic partial differential equations.
 
 <div id="xkcd">
 </div>
