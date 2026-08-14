@@ -28,7 +28,7 @@ author:
   location         : "Durham, North Carolina"
   employer         : "Duke University"
   url              : "https://math.duke.edu/"      
-  uri              : # URL
+  uri              : "https://math.duke.edu/" 
   email            : "sudheesh.surendranath@duke.edu" 
 
   # Academic websites
