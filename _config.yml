@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Sudheesh Surendranath"
 title_separator          : "-"
 name                     : &name "Sudheesh Surendranath"
-description              : &description "Mathematics Graduate Student"
+description              : &description "Postdoctoral Researcher"
 url                      : https://sudheesh-surendranath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sudheesh-surendranath/sudheesh-surendranath.github.io"
@@ -24,12 +24,12 @@ author:
   avatar           : "profile.png"
   name             : "Sudheesh Surendranath"
   pronouns         : "He/Him"  
-  bio              : "Mathematics Ph.D Student"
-  location         : "Salt Lake City, Utah"
-  employer         : "University of Utah"
-  url              : "https://www.math.utah.edu/"      
+  bio              : "Postdoctoral Researcher"
+  location         : "Durham, North Carolina"
+  employer         : "Duke University
+  url              : "https://math.duke.edu/"      
   uri              : # URL
-  email            : "sudheesh@math.utah.edu" 
+  email            : "sudheesh.surendranath@duke.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
