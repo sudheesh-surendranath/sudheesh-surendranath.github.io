@@ -12,3 +12,5 @@ analytics: true
     **Electron. Commun. Probab. 30 1-10, 2025**
 
 2. *H&ouml;lder regularity for a class of nonlinear stochastic heat equations* <a href="https://arxiv.org/abs/2501.16261">[arXiv]</a>
+
+3. *Continuous-time directed random polymers to the Critical SHF via moments* <a href="https://arxiv.org/abs/2608.11603">[arXiv]</a>
