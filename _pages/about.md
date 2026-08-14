@@ -8,8 +8,7 @@ redirect_from:
 analytics: true
 ---
 
-
-I am a fifth-year Mathematics Ph.D. student at the <a href="https://www.math.utah.edu/">University of Utah</a> advised by <a href="https://www.math.utah.edu/~davar/">Davar Khoshnevisan</a>. My research focuses on probability and stochastic analysis, including stochastic partial differential equations.
+Since August 2026, I am an Elliott Assistant Research Professor (postdoc) at <a href= "https://math.duke.edu">Duke Univeristy</a> mentored by <a href="https://sites.math.duke.edu/~ajd91/> Alex Dunlap</a>. Before this, I was a Ph.D. student at the <a href="https://www.math.utah.edu/">University of Utah</a> advised by <a href="https://www.math.utah.edu/~davar/">Davar Khoshnevisan</a>. My research focuses on probability and stochastic analysis, including stochastic partial differential equations.
 
 <div id="xkcd">
 </div>
